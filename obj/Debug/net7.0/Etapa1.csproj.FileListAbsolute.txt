@@ -1,0 +1,15 @@
+D:\Etapa1\bin\Debug\net7.0\Etapa1.exe
+D:\Etapa1\bin\Debug\net7.0\Etapa1.deps.json
+D:\Etapa1\bin\Debug\net7.0\Etapa1.runtimeconfig.json
+D:\Etapa1\bin\Debug\net7.0\Etapa1.dll
+D:\Etapa1\bin\Debug\net7.0\Etapa1.pdb
+D:\Etapa1\obj\Debug\net7.0\Etapa1.csproj.AssemblyReference.cache
+D:\Etapa1\obj\Debug\net7.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfoInputs.cache
+D:\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfo.cs
+D:\Etapa1\obj\Debug\net7.0\Etapa1.csproj.CoreCompileInputs.cache
+D:\Etapa1\obj\Debug\net7.0\Etapa1.dll
+D:\Etapa1\obj\Debug\net7.0\refint\Etapa1.dll
+D:\Etapa1\obj\Debug\net7.0\Etapa1.pdb
+D:\Etapa1\obj\Debug\net7.0\Etapa1.genruntimeconfig.cache
+D:\Etapa1\obj\Debug\net7.0\ref\Etapa1.dll
